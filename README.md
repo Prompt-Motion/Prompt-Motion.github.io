@@ -1,0 +1,87 @@
+# Prompt Motion
+
+**[prompt-motion.github.io](https://prompt-motion.github.io)**
+
+A gallery of AI motion prompts and Claude Opus motion design.
+
+[Org site](https://prompt-motion.github.io) · [promptmotion.org](https://promptmotion.org) · [X](https://x.com/AiMotionSiteS)
+
+<p>
+  <a href="https://promptmotion.org/0xevinho-3777d8"><img alt="Pixel wizard crypto animation" src="https://media.prompt-motion.com/0xevinho-opus-5-5-is-really/poster.05cdd2ac.webp" width="220"></a>
+  <a href="https://promptmotion.org/0xfemyn-e114d3"><img alt="AIsa API key promo" src="https://media.prompt-motion.com/0xfemyn-wtf-nah-opus-5-5/poster.99913bfb.webp" width="220"></a>
+  <a href="https://promptmotion.org/0xnfrith-5be616"><img alt="Celld job ownership explainer" src="https://media.prompt-motion.com/0xnfrith-opus-5-5-animation-created/poster.81bddbb4.webp" width="220"></a>
+  <a href="https://promptmotion.org/aisongman-71ffac"><img alt="Pixel art card battle game" src="https://media.prompt-motion.com/aisongman-this-is-insane-i/poster.f70df6ff.webp" width="220"></a>
+</p>
+
+The org site is the public gallery. Open a film, read the prompt or skill that made it, and follow the link back to the creator’s post. [promptmotion.org](https://promptmotion.org) is the same gallery on its own domain.
+
+## What is in the gallery
+
+Prompt Motion collects motion videos made with Claude Opus. Each card is one film:
+
+- **Prompt** is the text for that one video: the scene, the timing, the type, and the camera.
+- **Skill** is a reusable motion-design workflow, not a single script.
+- The poster plays a short preview in view. The full prompt stays on the entry, next to the model, the stack, and the post date.
+- Filter with Prompt or Skill. Sort by Popular or Recent.
+
+There are 230 films on the live site. This repository includes the site source and six sample entries, not the whole catalog. Videos, posters, and prompt text belong to their creators.
+
+## From the gallery
+
+### Pixel wizard crypto animation
+
+[@0xEvinho](https://x.com/0xEvinho/status/2103212966703436195) · [Open](https://promptmotion.org/0xevinho-3777d8)
+
+<img alt="Pixel wizard" src="https://media.prompt-motion.com/0xevinho-opus-5-5-is-really/poster.05cdd2ac.webp" width="480">
+
+> make a similar version but with a crypto reference
+
+### AIsa API key promo
+
+[@0xfemyn](https://x.com/0xfemyn/status/2103796337041137833) · [Open](https://promptmotion.org/0xfemyn-e114d3)
+
+<img alt="SEARCH" src="https://media.prompt-motion.com/0xfemyn-wtf-nah-opus-5-5/poster.99913bfb.webp" width="480">
+
+> make a dynamic 15-second motion graphics video for AIsa. Go all out.
+
+### Claude self-intro motion graphic
+
+[@1littlecoder](https://x.com/1littlecoder/status/2103587706999914649) · [Open](https://promptmotion.org/1littlecoder-9fef89)
+
+<img alt="Claude self-intro" src="https://media.prompt-motion.com/1littlecoder-this-is-crazy-i/poster.ad5545de.webp" width="480">
+
+> make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!
+
+### Pixel art card battle game
+
+[@aisongman](https://x.com/aisongman/status/2103763192971461057) · [Open](https://promptmotion.org/aisongman-71ffac)
+
+<img alt="Pixel card game" src="https://media.prompt-motion.com/aisongman-this-is-insane-i/poster.f70df6ff.webp" width="480">
+
+> Create a 1-on-1 card game like Hearthstone. Just make it. As best you can. In pixel art style.
+
+## Source
+
+The gallery UI lives in this repo under [`source/`](source/).
+
+| Piece | File |
+| --- | --- |
+| Home page, title, and intro | [`source/app/page.tsx`](source/app/page.tsx) |
+| Gallery, filters, previews | [`source/components/gallery.tsx`](source/components/gallery.tsx) |
+| Masonry layout | [`source/lib/masonry.ts`](source/lib/masonry.ts) |
+| Entry page | [`source/app/[slug]/page.tsx`](source/app/[slug]/page.tsx) |
+| Sample catalog, 6 films | [`source/data/catalog.json`](source/data/catalog.json) |
+
+```bash
+cd source
+npm install
+npm run dev
+```
+
+`npm run dev` serves the sample catalog. The org site and promptmotion.org serve the full gallery.
+
+## Credits
+
+Curated by [@AiMotionSiteS](https://x.com/AiMotionSiteS).
+
+Videos and prompts belong to their creators. Each entry links to the original post.

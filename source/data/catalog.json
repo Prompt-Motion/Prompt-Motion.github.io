@@ -1,0 +1,141 @@
+{
+  "masonry": "--h1:calc(157.65559 * var(--colw) + 14700px);--h2:max(calc(79.82715 * var(--colw) + 7212px), calc(77.82844 * var(--colw) + 7468px));--h3:max(calc(50.97491 * var(--colw) + 5228px), calc(54.45776 * var(--colw) + 4524px), calc(52.22292 * var(--colw) + 4908px));--h4:max(calc(39.51553 * var(--colw) + 3564px), calc(39.84413 * var(--colw) + 3436px), calc(38.59833 * var(--colw) + 3756px), calc(39.6976 * var(--colw) + 3884px))",
+  "entries": [
+    {
+      "slug": "0xevinho-3777d8",
+      "title": "Pixel wizard crypto animation",
+      "creatorName": "Evinho",
+      "handle": "0xEvinho",
+      "tweetUrl": "https://x.com/0xEvinho/status/2103212966703436195",
+      "prompt": "make a similar version but with a crypto reference",
+      "kind": "prompt",
+      "media": {
+        "poster": "https://media.prompt-motion.com/0xevinho-opus-5-5-is-really/poster.05cdd2ac.webp",
+        "video": "https://media.prompt-motion.com/0xevinho-opus-5-5-is-really/video.cd44e91d.mp4",
+        "avatar": "https://media.prompt-motion.com/0xevinho-opus-5-5-is-really/avatar.88461bcd.webp",
+        "preview": "https://media.prompt-motion.com/0xevinho-opus-5-5-is-really/preview.0c413a2a.mp4"
+      },
+      "meta": {
+        "Model": "Opus 5.5",
+        "Iterations": "One-shot",
+        "Posted": "2026-09-24"
+      },
+      "width": 1920,
+      "height": 1080,
+      "layout": "--x1:0;--a1:83.45313;--b1:8064px;--x2:1;--a2:41.31279;--b2:4160px;--x3:2;--a3:27.74931;--b3:2688px;--x4:0;--a4:20.46692;--b4:2048px"
+    },
+    {
+      "slug": "0xfemyn-e114d3",
+      "title": "AIsa API key promo",
+      "creatorName": "Rafael",
+      "handle": "0xfemyn",
+      "tweetUrl": "https://x.com/0xfemyn/status/2103796337041137833",
+      "prompt": "make a dynamic 15-second motion graphics video for AIsa. Go all out.",
+      "kind": "prompt",
+      "media": {
+        "poster": "https://media.prompt-motion.com/0xfemyn-wtf-nah-opus-5-5/poster.99913bfb.webp",
+        "video": "https://media.prompt-motion.com/0xfemyn-wtf-nah-opus-5-5/video.1d7bbb96.mp4",
+        "avatar": "https://media.prompt-motion.com/0xfemyn-wtf-nah-opus-5-5/avatar.c49e35c5.webp",
+        "preview": "https://media.prompt-motion.com/0xfemyn-wtf-nah-opus-5-5/preview.b0d49e30.mp4"
+      },
+      "meta": {
+        "Model": "Opus 5.5",
+        "Iterations": "One-shot",
+        "Posted": "2026-09-26"
+      },
+      "width": 1920,
+      "height": 1080,
+      "layout": "--x1:0;--a1:74.06667;--b1:7040px;--x2:1;--a2:36.37529;--b2:3648px;--x3:2;--a3:24.37431;--b3:2304px;--x4:0;--a4:17.83046;--b4:1792px"
+    },
+    {
+      "slug": "0xnfrith-5be616",
+      "title": "Celld job ownership explainer",
+      "creatorName": "nick frith",
+      "handle": "0xnfrith",
+      "tweetUrl": "https://x.com/0xnfrith/status/2103358957050068999",
+      "prompt": "make me an animation to explain why celld earns its place.",
+      "kind": "prompt",
+      "media": {
+        "poster": "https://media.prompt-motion.com/0xnfrith-opus-5-5-animation-created/poster.81bddbb4.webp",
+        "video": "https://media.prompt-motion.com/0xnfrith-opus-5-5-animation-created/video.5a7ba33c.mp4",
+        "avatar": "https://media.prompt-motion.com/0xnfrith-opus-5-5-animation-created/avatar.806e8e86.webp",
+        "preview": "https://media.prompt-motion.com/0xnfrith-opus-5-5-animation-created/preview.fcfd3537.mp4"
+      },
+      "meta": {
+        "Model": "Opus 5.5",
+        "Posted": "2026-09-25"
+      },
+      "width": 1920,
+      "height": 1080,
+      "layout": "--x1:0;--a1:35.28652;--b1:3264px;--x2:1;--a2:16.69965;--b2:1664px;--x3:1;--a3:11.30909;--b3:960px;--x4:3;--a4:7.86875;--b4:896px"
+    },
+    {
+      "slug": "1littlecoder-9fef89",
+      "title": "Claude self-intro motion graphic",
+      "creatorName": "1LittleCoder💻",
+      "handle": "1littlecoder",
+      "tweetUrl": "https://x.com/1littlecoder/status/2103587706999914649",
+      "prompt": "make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!",
+      "kind": "prompt",
+      "media": {
+        "poster": "https://media.prompt-motion.com/1littlecoder-this-is-crazy-i/poster.ad5545de.webp",
+        "video": "https://media.prompt-motion.com/1littlecoder-this-is-crazy-i/video.3f54cb80.mp4",
+        "avatar": "https://media.prompt-motion.com/1littlecoder-this-is-crazy-i/avatar.e477fb41.webp",
+        "preview": "https://media.prompt-motion.com/1littlecoder-this-is-crazy-i/preview.6b972843.mp4"
+      },
+      "meta": {
+        "Model": "Opus 5.5",
+        "Posted": "2026-09-25"
+      },
+      "width": 1920,
+      "height": 1080,
+      "layout": "--x1:0;--a1:39.88652;--b1:3776px;--x2:1;--a2:19.51215;--b2:1984px;--x3:2;--a3:13.43056;--b3:1152px;--x4:0;--a4:9.42813;--b4:1024px"
+    },
+    {
+      "slug": "aisongman-71ffac",
+      "title": "Pixel art card battle game",
+      "creatorName": "AiSongMan｜AI Workflow Lab",
+      "handle": "aisongman",
+      "tweetUrl": "https://x.com/aisongman/status/2103763192971461057",
+      "prompt": "Create a 1-on-1 card game like Hearthstone.\nJust make it. As best you can.\nIn pixel art style.",
+      "kind": "prompt",
+      "media": {
+        "poster": "https://media.prompt-motion.com/aisongman-this-is-insane-i/poster.f70df6ff.webp",
+        "video": "https://media.prompt-motion.com/aisongman-this-is-insane-i/video.f20709d7.mp4",
+        "avatar": "https://media.prompt-motion.com/aisongman-this-is-insane-i/avatar.df14041d.webp",
+        "preview": "https://media.prompt-motion.com/aisongman-this-is-insane-i/preview.a5cd7ddf.mp4"
+      },
+      "meta": {
+        "Model": "Opus 5.5",
+        "Iterations": "One-shot",
+        "Posted": "2026-09-26"
+      },
+      "width": 1280,
+      "height": 720,
+      "layout": "--x1:0;--a1:117.68892;--b1:11264px;--x2:0;--a2:58.77854;--b2:5568px;--x3:2;--a3:38.49931;--b3:3904px;--x4:2;--a4:28.54277;--b4:3008px"
+    },
+    {
+      "slug": "ai-baymax-0ef9dd",
+      "title": "FigPad product promo",
+      "creatorName": "AI大白",
+      "handle": "Ai_Baymax",
+      "tweetUrl": "https://x.com/Ai_Baymax/status/2103411004902416787",
+      "prompt": "make a 1-min promo for this product from the codebase.",
+      "kind": "prompt",
+      "media": {
+        "poster": "https://media.prompt-motion.com/ai-baymax-tried-opus-5-5-for/poster.0c203659.webp",
+        "video": "https://media.prompt-motion.com/ai-baymax-tried-opus-5-5-for/video.db5a6c9e.mp4",
+        "avatar": "https://media.prompt-motion.com/ai-baymax-tried-opus-5-5-for/avatar.fdb8beef.webp",
+        "preview": "https://media.prompt-motion.com/ai-baymax-tried-opus-5-5-for/preview.c13a8a30.mp4"
+      },
+      "meta": {
+        "Model": "Opus 5.5",
+        "Iterations": "One-shot",
+        "Posted": "2026-09-25"
+      },
+      "width": 1920,
+      "height": 1080,
+      "layout": "--x1:0;--a1:144.02226;--b1:13696px;--x2:1;--a2:71.68816;--b2:6912px;--x3:2;--a3:47.77014;--b3:4544px;--x4:1;--a4:36.73163;--b4:3136px"
+    }
+  ]
+}
