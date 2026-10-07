@@ -6,12 +6,7 @@ A gallery of AI motion prompts and Claude Opus motion design.
 
 [Org site](https://prompt-motion.github.io) · [promptmotion.org](https://promptmotion.org) · [X](https://x.com/AiMotionSiteS)
 
-<p>
-  <a href="https://promptmotion.org/0xevinho-3777d8"><img alt="Pixel wizard crypto animation" src="https://media.prompt-motion.com/0xevinho-opus-5-5-is-really/poster.05cdd2ac.webp" width="220"></a>
-  <a href="https://promptmotion.org/0xfemyn-e114d3"><img alt="AIsa API key promo" src="https://media.prompt-motion.com/0xfemyn-wtf-nah-opus-5-5/poster.99913bfb.webp" width="220"></a>
-  <a href="https://promptmotion.org/0xnfrith-5be616"><img alt="Celld job ownership explainer" src="https://media.prompt-motion.com/0xnfrith-opus-5-5-animation-created/poster.81bddbb4.webp" width="220"></a>
-  <a href="https://promptmotion.org/aisongman-71ffac"><img alt="Pixel art card battle game" src="https://media.prompt-motion.com/aisongman-this-is-insane-i/poster.f70df6ff.webp" width="220"></a>
-</p>
+Drop `videos/pixel-wizard.mp4` here.
 
 The org site is the public gallery. Open a film, read the prompt or skill that made it, and follow the link back to the creator’s post. [promptmotion.org](https://promptmotion.org) is the same gallery on its own domain.
 
@@ -32,7 +27,7 @@ There are 230 films on the live site. This repository includes the site source a
 
 [@0xEvinho](https://x.com/0xEvinho/status/2103212966703436195) · [Open](https://promptmotion.org/0xevinho-3777d8)
 
-<img alt="Pixel wizard" src="https://media.prompt-motion.com/0xevinho-opus-5-5-is-really/poster.05cdd2ac.webp" width="480">
+Drop `videos/pixel-wizard.mp4` here.
 
 > make a similar version but with a crypto reference
 
@@ -40,7 +35,7 @@ There are 230 films on the live site. This repository includes the site source a
 
 [@0xfemyn](https://x.com/0xfemyn/status/2103796337041137833) · [Open](https://promptmotion.org/0xfemyn-e114d3)
 
-<img alt="SEARCH" src="https://media.prompt-motion.com/0xfemyn-wtf-nah-opus-5-5/poster.99913bfb.webp" width="480">
+Drop `videos/aisa-promo.mp4` here.
 
 > make a dynamic 15-second motion graphics video for AIsa. Go all out.
 
@@ -48,7 +43,7 @@ There are 230 films on the live site. This repository includes the site source a
 
 [@1littlecoder](https://x.com/1littlecoder/status/2103587706999914649) · [Open](https://promptmotion.org/1littlecoder-9fef89)
 
-<img alt="Claude self-intro" src="https://media.prompt-motion.com/1littlecoder-this-is-crazy-i/poster.ad5545de.webp" width="480">
+Drop `videos/claude-self-intro.mp4` here.
 
 > make a dynamic 10-second motion graphics video that shows who are you as Opus 5.5 - be as creative and dynamic as possible. Avoid the frames and texts on the corners which are typical ai made giveaways!
 
@@ -56,7 +51,7 @@ There are 230 films on the live site. This repository includes the site source a
 
 [@aisongman](https://x.com/aisongman/status/2103763192971461057) · [Open](https://promptmotion.org/aisongman-71ffac)
 
-<img alt="Pixel card game" src="https://media.prompt-motion.com/aisongman-this-is-insane-i/poster.f70df6ff.webp" width="480">
+Drop `videos/pixel-card-game.mp4` here.
 
 > Create a 1-on-1 card game like Hearthstone. Just make it. As best you can. In pixel art style.
 
