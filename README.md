@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/94444f64-b5bf-4767-886e-63cad2473ca6
+
 # Prompt Motion
 
 **[prompt-motion.github.io](https://prompt-motion.github.io)**
@@ -28,6 +32,14 @@ There are 230 films on the live site. This repository includes the site source a
 [@0xEvinho](https://x.com/0xEvinho/status/2103212966703436195) · [Open](https://promptmotion.org/0xevinho-3777d8)
 
 Drop `videos/pixel-wizard.mp4` here.
+
+https://github.com/user-attachments/assets/fe9519ee-1282-458e-ac1f-e7c04d471aad
+
+
+
+https://github.com/user-attachments/assets/eb077839-aa5e-45a1-a44e-d6a57f46fd96
+
+
 
 > make a similar version but with a crypto reference
 
